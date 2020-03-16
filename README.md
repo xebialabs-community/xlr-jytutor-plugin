@@ -16,7 +16,7 @@ Copy the extension to the plugins folder of your  **XL Release** installation $X
 
 # Snapshot #
 
-![Configuration] (screenshot.png)
+![Configuration](/screenshot.png)
 
 
 # SAMPLE #
