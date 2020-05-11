@@ -25,10 +25,11 @@
 
         <menu id="xlrelease.menu.jytutor" label="JyTutor" weight="90" uri="include/jytutor-plugin/tutor.html">
             <menu-item label="JyTutor" path-suffix="jytutor-plugin" weight="10" uri="include/jytutor-plugin/tutor.html">
+              <property name="permissions" value="global_variables#edit" />
             </menu-item>
 
         </menu>
     </menu-ref>
-    
+
     <library name="extension.Tutor"/>
 </plugin>
